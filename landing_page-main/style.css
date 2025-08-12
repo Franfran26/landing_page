@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(218, 12, 115);
+}
+
+#produtos{
+    background-color: crimson;
+    height: 700px;
+}
+
+#parceiros{
+    background-color: darkred;
+    height: 500px;
+
+}
+
+#historia{
+    background-color: cadetblue;
+    height: 500px;
+}
+
+#cadastro{
+    background-color: hotpink;
+    height: 500px;
+}
