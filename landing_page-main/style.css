@@ -1,5 +1,6 @@
 header{
     background-color: rgb(218, 12, 115);
+    
 }
 
 #produtos{
@@ -9,16 +10,19 @@ header{
 
 #parceiros{
     background-color: darkred;
-    height: 500px;
+    height: 700px;
 
 }
 
 #historia{
     background-color: cadetblue;
-    height: 500px;
+    height: 700px;
 }
 
 #cadastro{
     background-color: hotpink;
-    height: 500px;
+    height: 700px;
+}
+#logotipo{
+    height: 200px;
 }
