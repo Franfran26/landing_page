@@ -12,7 +12,7 @@ header{
 }
 
 #parceiros{
-    background-color: rgb(226, 69, 100);
+    background-color: rgb(107, 54, 230);
     height: 700px;
     padding-top: 30px;
 }
@@ -68,7 +68,7 @@ body{
 }
 
 .texto_1{
-    background-color: rgb(250, 167, 72);
+    background-color: rgb(40, 105, 165);
     margin: 0 50px 0 50px;
     padding: 20px;
     border-radius: 10px;
@@ -76,7 +76,7 @@ body{
 }
 
 .texto_1:hover{
-    background-color: rgb(235, 64, 169);
+    background-color: rgb(39, 65, 85);
     transition: 0.9s;
 }
 
